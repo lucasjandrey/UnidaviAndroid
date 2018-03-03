@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="msg_lucas">Lucas Jandrey</string>
+    <string name="label_informacao">Armas para todos em 2018!</string>
+    <string name="label_login">Tela de Login</string>
+    <string name="usuario">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="entrar" type="id">Entrar</string>
+    <string name="esqueceuSenha" type="id">Esqueceu a Senha?</string>
+    <string name="error_connection">Deu erro na conexão!</string>
+    <string name="error_request">Requisição não permitida.</string>
+    <string name="message_wait">Aguarde, carregando...</string>
+</resources>
